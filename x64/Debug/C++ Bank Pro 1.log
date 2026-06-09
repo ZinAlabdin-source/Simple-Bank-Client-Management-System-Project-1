@@ -1,0 +1,3 @@
+﻿  C++ Bank Pro 1.cpp
+D:\Vs Studio Things\Vs 26 Projects\C++ Bank Pro 1\C++ Bank Pro 1\C++ Bank Pro 1.cpp(48,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  C++ Bank Pro 1.vcxproj -> D:\Vs Studio Things\Vs 26 Projects\C++ Bank Pro 1\x64\Debug\C++ Bank Pro 1.exe
